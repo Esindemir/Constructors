@@ -12,7 +12,7 @@ namespace Constructors
 
             Console.WriteLine(customer2.FirstName);
 
-            //yeniiiiiii
+            //yenii
            
         }
     }
