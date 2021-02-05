@@ -11,6 +11,8 @@ namespace Constructors
             Customer customer2 = new Customer(2, "Derin", "Demiroğ", "Ankara");
 
             Console.WriteLine(customer2.FirstName);
+
+            //yeniiiii
            
         }
     }
